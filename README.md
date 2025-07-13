@@ -33,3 +33,15 @@ Run the Game:
 python runner.py
 
 ```
+## 📝 Instructions
+> Make sure all files are in the **same folder** before running the project.
+
+> Those files are:
+> - tictactoe.py
+> - runner.py
+> - OpenSans-Regular.ttf
+
+---
+
+⭐️ If you find this project helpful or interesting, consider giving it a star — it helps others discover it too.
+
