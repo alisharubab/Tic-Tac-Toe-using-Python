@@ -11,7 +11,11 @@ A Python-based Tic Tac Toe game with an unbeatable AI opponent using the Minimax
 - 🖱️ Intuitive click-based interface
 - 🔁 Replayable and fun
 
----
+## 🎥 Demo Preview
+
+![Tic Tac Toe Gameplay](https://github.com/alisharubab/Tic-Tac-Toe-using-Python/blob/main/vid.gif)
+
+[🎬 Click here to watch the full video demo](https://github.com/alisharubab/Tic-Tac-Toe-using-Python/blob/main/video-demo.mp4)
 
 ## 🧱 Requirements
 
